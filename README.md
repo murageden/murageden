@@ -1,7 +1,7 @@
 # Hi there!
 Welcome to my Github profile. Here is a short intoduction about me:
 
-- 👋 Hi, I am Dennis Murage
+- 👋 Hi, I am Dennis Murage (@murageden)
 - 👀 I’m interested in AI, DevOps, Restful APIs, and LLMs development
 - 🌱 I’m currently learning Machine Learning with Python
 - 💞️ I’m looking to collaborate on creating Software that is more human-friendly and safe for the environment
@@ -25,7 +25,7 @@ Welcome to my Github profile. Here is a short intoduction about me:
 - [Twitter](https://twitter.com/murageden)
 - [LinkedIn](https://www.linkedin.com/in/murageden)
 - [Hackerrank](https://hackerrank.com/murageden)
-- [Facebook](ttps://facebook.com/murageden)
+- [Facebook](https://facebook.com/murageden)
 - [Instagram](https://instagram.com/murageden)
 
 
